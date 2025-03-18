@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This Code Contains the Lazy Loading and Code Split Concepts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
